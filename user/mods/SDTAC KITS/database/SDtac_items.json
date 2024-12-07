@@ -442,7 +442,7 @@
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
       "CantRemoveFromSlotsDuringRaid": [],
-      "ConflictingItems": ["p90rail","5cc700ede4a949033c734315"
+      "ConflictingItems": ["67537c18a26f575e456ae19e","5cc700ede4a949033c734315"
       ],
       "CoolFactor": 1,
       "Description": "mount_vector_kriss_mk5_modular_rail",
@@ -726,7 +726,7 @@
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
       "CantRemoveFromSlotsDuringRaid": [],
-      "ConflictingItems": ["p90rail","5cc700ede4a949033c734315"
+      "ConflictingItems": ["67537c18a26f575e456ae19e","5cc700ede4a949033c734315"
       ],
       "CoolFactor": 1,
       "Description": "mount_vector_kriss_mk5_modular_rail",
