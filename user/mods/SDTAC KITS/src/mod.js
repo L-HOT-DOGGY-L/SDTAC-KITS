@@ -24,9 +24,7 @@ class MFACitems {
         const modFolderName = "SDTAC KITS";
         const modFullName = "Pratical tac kits";
         //Trader IDs
-        const traders = {
-            "skier": "58330581ace78e27b8b10cee"
-        };
+        const traders = {};
         //Currency IDs
         const currencies = {
             "roubles": "5449016a4bdc2d6f028b456f",

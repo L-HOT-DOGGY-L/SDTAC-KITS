@@ -50,9 +50,7 @@ class MFACitems implements IPostDBLoadMod
         const modFullName = "Pratical tac kits";
 
         //Trader IDs
-        const traders = {
-            "skier": "58330581ace78e27b8b10cee"
-        };
+        const traders = { };
 
         //Currency IDs
         const currencies = {
